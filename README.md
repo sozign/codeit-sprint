@@ -11,13 +11,13 @@
 ### PR & [작업내용](https://github.com/sozign/2-Weekly-Mission) 보러가기
 | 파트 | 주차  | 내용                             | PR 링크                                                                                |
 |------|-------|----------------------------------|----------------------------------------------------------------------------------------|
-| 1    | 2     | html/css 기초                        | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/9#issue-1965028879   |
-|      | 3     | media query를 이용한 반응형 웹 구현                   | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/91#issue-1977407634  |
-|      | 4     | JavaScript: 이벤트                | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/129#issue-1987337987 |
-|      | 5     | JavaScript: api 요청          | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/184#issue-1998180627 |
-| 2    | 6     | React: 조건부 렌더링, 리액트에서의 data fetching        | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/233#issue-2010867656 |
-|      | 8, 11 | React: 공통 컴포넌트 제작           | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/318#issue-2060943504 |
-| 3    | 12    | TypeScript, NEXT.js 마이그레이션 | https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/350#issue-2069143006 |
+| 1    | 2     | html/css 기초                        | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/9#issue-1965028879)   |
+|      | 3     | media query를 이용한 반응형 웹 구현                   | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/91#issue-1977407634)  |
+|      | 4     | JavaScript: 이벤트                | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/129#issue-1987337987) |
+|      | 5     | JavaScript: api 요청          | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/184#issue-1998180627) |
+| 2    | 6     | React: 조건부 렌더링, 리액트에서의 data fetching        | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/233#issue-2010867656) |
+|      | 8, 11 | React: 공통 컴포넌트 제작           | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/318#issue-2060943504) |
+| 3    | 12    | TypeScript, NEXT.js 마이그레이션 | [PR](https://github.com/codeit-bootcamp-frontend/2-Weekly-Mission/pull/350#issue-2069143006) |
 
 <br/>
 
