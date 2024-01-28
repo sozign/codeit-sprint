@@ -31,4 +31,5 @@
 | ----- | 
 | [레포지토리](https://github.com/sozign/Rolling) |
 | [프로젝트 회고 포스팅](https://velog.io/@sozign/%EC%BD%94%EB%93%9C%EC%9E%87-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
-| [기능 제작 포스팅](https://velog.io/@sozign/%EB%A1%A4%EB%A7%81-%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0)  | 
+| [드롭다운 셀렉터 제작 포스팅](https://velog.io/@sozign/%EB%A1%A4%EB%A7%81-%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0)  | 
+| [framer-motion 사용기](https://velog.io/@sozign/framer-motion-%EC%82%AC%EC%9A%A9%EA%B8%B0) |
